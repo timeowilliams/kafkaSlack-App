@@ -1,4 +1,6 @@
- Plan: Create a mini event-driven application
+ # kafkaSlack-App
+ 
+ Plan: Create a mini event-driven application;
 
 To start the application: 
 1. Install Docker onto your machine
@@ -17,4 +19,4 @@ To start the application:
     http://localhost:3000/hook
 
 5. Witness the event-driven architecture!
-# kafkaSlack-App
+

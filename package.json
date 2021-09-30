@@ -1,0 +1,17 @@
+{
+  "name": "kafka-npm-webhook",
+  "version": "1.0.0",
+  "description": "Kafka Application that connects to Npm link & Slack Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timeo",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^6.0.0",
+    "dotenv": "^10.0.0",
+    "kafkajs": "^1.15.0",
+    "npm-hook-receiver": "^1.0.0"
+  }
+}
